@@ -1,4 +1,4 @@
-# Code from TwitterDev Twitch streams
+# Code from TwitterDev Twitch Streams
 Code live streamed on TwitterDev's Twitch channel as part of our [live stream series](https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509).
 
 
