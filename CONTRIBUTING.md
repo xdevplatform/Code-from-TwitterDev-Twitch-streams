@@ -18,7 +18,7 @@ We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow
 ## License
 
 By contributing your code, you agree to license your contribution under the
-terms of the APLv2: https://github.com/twitter/repo-scaffolding/blob/master/LICENSE
+terms of the APLv2: https://github.com/twitterdev/Code-from-TwitterDev-Twitch-streams/LICENSE
 
 ## Code of Conduct
 
